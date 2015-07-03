@@ -1,0 +1,9 @@
+Starting the server...
+The server has started
+Please connect the client to 172.16.16.8
+The server has accepted the client
+The server has received the stream
+Receiving file 'ЭТ-1543 (ЭТ-1543_45-49 @ pass_scan).png' (471378 bytes)
+The file was received
+Streams are now closed 
+

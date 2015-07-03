@@ -1,0 +1,4 @@
+Successfully connected to server
+Request sent
+Streams and connections are now closed 
+

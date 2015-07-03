@@ -1,0 +1,98 @@
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\bin\Debug\niipp_client.exe.config
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\bin\Debug\niipp_client.exe
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\bin\Debug\niipp_client.pdb
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.exe
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.pdb
+c:\users\user\documents\visual studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.formMain.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.formCreateMaterial.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\niipp_client\niipp_client\obj\Debug\niipp_client.formConnectionSettings.resources
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\bin\Debug\niipp_client.exe.config
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.exe
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.pdb
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\bin\Debug\niipp_client.exe
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\bin\Debug\niipp_client.pdb
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.formConnectionSettings.resources
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.formCreateMaterial.resources
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.formMain.resources
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+C:\Users\Руслан\Desktop\niipp_client_2\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\bin\Debug\niipp_client.exe.config
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.exe
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.pdb
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\bin\Debug\niipp_client.exe
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\bin\Debug\niipp_client.pdb
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.formConnectionSettings.resources
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.formCreateMaterial.resources
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.formMain.resources
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+C:\Users\Руслан\Desktop\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+D:\Проекты\niipp_client 2\niipp_client\bin\Debug\niipp_client.exe.config
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.exe
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.pdb
+D:\Проекты\niipp_client 2\niipp_client\bin\Debug\niipp_client.exe
+D:\Проекты\niipp_client 2\niipp_client\bin\Debug\niipp_client.pdb
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.formConnectionSettings.resources
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.formCreateMaterial.resources
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.formMain.resources
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+D:\Проекты\niipp_client 2\niipp_client\obj\Debug\niipp_client.FormCreateSetOfMasks.resources
+D:\Проекты\niipp_client\niipp_client\bin\Debug\niipp_client.exe.config
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.exe
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.pdb
+D:\Проекты\niipp_client\niipp_client\bin\Debug\niipp_client.exe
+D:\Проекты\niipp_client\niipp_client\bin\Debug\niipp_client.pdb
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.FormConnectionSettings.resources
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateMaterial.resources
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateSetOfMasks.resources
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.FormMain.resources
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+D:\Проекты\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+D:\github\NiippClient\niipp_client\niipp_client\bin\Debug\niipp_client.exe.config
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.exe
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.pdb
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormConnectionSettings.resources
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateMaterial.resources
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateSetOfMasks.resources
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormMain.resources
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+D:\github\NiippClient\niipp_client\niipp_client\bin\Debug\niipp_client.exe
+D:\github\NiippClient\niipp_client\niipp_client\bin\Debug\niipp_client.pdb
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateWaferDoc.resources
+D:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.ResolveComReference.cache
+C:\github\NiippClient\niipp_client\niipp_client\bin\Debug\niipp_client.exe.config
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.ResolveComReference.cache
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.exe
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.pdb
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormConnectionSettings.resources
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateMaterial.resources
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateSetOfMasks.resources
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormCreateWaferDoc.resources
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.FormMain.resources
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+C:\github\NiippClient\niipp_client\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+C:\github\NiippClient\niipp_client\niipp_client\bin\Debug\niipp_client.exe
+C:\github\NiippClient\niipp_client\niipp_client\bin\Debug\niipp_client.pdb
+D:\github\NiippClient\niipp_client\bin\Debug\niipp_client.exe.config
+D:\github\NiippClient\niipp_client\obj\Debug\niipp_client.exe
+D:\github\NiippClient\niipp_client\obj\Debug\niipp_client.pdb
+D:\github\NiippClient\niipp_client\obj\Debug\niipp_client.Properties.Resources.resources
+D:\github\NiippClient\niipp_client\obj\Debug\niipp_client.csproj.GenerateResource.Cache
+D:\github\NiippClient\niipp_client\bin\Debug\niipp_client.exe
+D:\github\NiippClient\niipp_client\bin\Debug\niipp_client.pdb
+D:\GitHub\NiippClient\niipp_client\obj\Debug\niipp_client.csprojResolveAssemblyReference.cache
+D:\GitHub\NiippClient\niipp_client\obj\Debug\NiippClient.FormConnectionSettings.resources
+D:\GitHub\NiippClient\niipp_client\obj\Debug\NiippClient.FormCreateMaterial.resources
+D:\GitHub\NiippClient\niipp_client\obj\Debug\NiippClient.FormCreateSetOfMasks.resources
+D:\GitHub\NiippClient\niipp_client\obj\Debug\NiippClient.FormCreateWaferDoc.resources
+D:\GitHub\NiippClient\niipp_client\obj\Debug\NiippClient.FormMain.resources

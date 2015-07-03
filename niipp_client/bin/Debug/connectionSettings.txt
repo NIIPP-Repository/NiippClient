@@ -1,0 +1,4 @@
+Server: 172.16.1.24
+User ID: user4
+Password: user4pass
+Database: db_wafers
